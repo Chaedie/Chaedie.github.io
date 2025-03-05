@@ -95,7 +95,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://raw.githubusercontent.com/Chaedie/chirpy-images/main"
+cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/Chaedie"
 
 # ------------ The following options are not recommended to be modified ------------------
 
